@@ -1,0 +1,4 @@
+name: algorithm_python
+dependencies:
+  - python=3.9
+  - pip
